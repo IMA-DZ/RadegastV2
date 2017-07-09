@@ -4,11 +4,11 @@ It is used to support testing activities of the IMA  working groups
 
 This  repository  should be considered  unstable.
 
-Travis reports 
+Travis reports  
 [![Build Status](https://travis-ci.org/IMA-DZ/RadegastV2.svg?branch=master)](https://travis-ci.org/IMA-DZ/RadegastV2)
 
-Codacity reports
-
+Codacity reports  
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b408bdb33b8a409bbb5e9c4025bc74ad)](https://www.codacy.com/app/InfiniteMetaverseAlliance_Codacity/RadegastV2?utm_source=github.com&utm_medium=referral&utm_content=IMA-DZ/RadegastV2&utm_campaign=badger)
 
 
 The following  information is supplied to conform to the licensing requests
@@ -16,7 +16,7 @@ The following  information is supplied to conform to the licensing requests
 
 # Author
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b408bdb33b8a409bbb5e9c4025bc74ad)](https://www.codacy.com/app/InfiniteMetaverseAlliance_Codacity/RadegastV2?utm_source=github.com&utm_medium=referral&utm_content=IMA-DZ/RadegastV2&utm_campaign=badger)
+
 
 Project founder:
 
