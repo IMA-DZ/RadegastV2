@@ -4,6 +4,11 @@ It is used to support testing activities of the IMA  working groups
 
 This  repository  should be considered  unstable.
 
+Travis reports
+
+
+Codacity reports
+
 
 
 The following  information is supplied to conform to the licensing requests
