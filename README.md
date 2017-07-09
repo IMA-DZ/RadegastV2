@@ -1,3 +1,10 @@
+This is a working repository for the Infinite Metaverse Alliance (IMA)
+It is used to support testing activities of the IMA  working groups
+
+This  repository  should be considered  unstable
+
+
+
 # Author
 
 Project founder:
@@ -15,8 +22,7 @@ Developers:
 * **Robin Cornelius**
 * **Revolution Smythe**
 
-[![Travis CI Status](https://travis-ci.org/cinderblocks/radegast.svg?branch=master)](https://travis-ci.org/cinderblocks/radegast)
-[![AppVeyor Status](https://ci.appveyor.com/api/projects/status/ql37302tn67dvqih?svg=true)](https://ci.appveyor.com/project/cinderblocks57647/radegast)
+
 
 # License
 
