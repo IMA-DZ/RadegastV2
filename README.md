@@ -13,7 +13,7 @@ The following  information is supplied to conform to the licensing requests
 
 Project founder:
 
-* **Latif Khalifa** (email latifer radegast.org)
+* ** (RIP) Latif Khalifa** (email latifer radegast.org)
 
 Current maintainer and lead developer:
 
