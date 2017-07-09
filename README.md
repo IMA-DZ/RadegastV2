@@ -1,4 +1,5 @@
 This is a working repository for the Infinite Metaverse Alliance (IMA)
+
 It is used to support testing activities of the IMA  working groups
 
 This  repository  should be considered  unstable
