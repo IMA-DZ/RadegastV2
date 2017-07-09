@@ -16,6 +16,8 @@ The following  information is supplied to conform to the licensing requests
 
 # Author
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b408bdb33b8a409bbb5e9c4025bc74ad)](https://www.codacy.com/app/InfiniteMetaverseAlliance_Codacity/RadegastV2?utm_source=github.com&utm_medium=referral&utm_content=IMA-DZ/RadegastV2&utm_campaign=badger)
+
 Project founder:
 
 * ** (RIP) Latif Khalifa** (email latifer radegast.org)
