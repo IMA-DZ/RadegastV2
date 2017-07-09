@@ -4,8 +4,8 @@ It is used to support testing activities of the IMA  working groups
 
 This  repository  should be considered  unstable.
 
-Travis reports
-
+Travis reports 
+[![Build Status](https://travis-ci.org/IMA-DZ/RadegastV2.svg?branch=master)](https://travis-ci.org/IMA-DZ/RadegastV2)
 
 Codacity reports
 
